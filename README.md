@@ -1,4 +1,4 @@
-# Patient Classification Project
+# Cardiovascular Disease Predicition Project
 
 ## Overview
 This project aims to develop a predictive model for patient classification based on various features including demographics, clinical biomarkers, and medical history. The model utilizes a RandomForestClassifier for classification and employs various preprocessing techniques for data cleaning and feature engineering.
